@@ -1,0 +1,28 @@
+@text Colour;
+
+
+@font-face {
+  font-family: 'DINWebLight';
+  src: url('../../../sfu_fonts/DINWeb-Light.eot');
+  src: url('../../../sfu_fonts/DINWeb-Light.eot?#iefix') format('embedded-opentype'), url('../../../sfu_fonts/DINWeb-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'DINWeb';
+  src: url('../../../sfu_fonts/DINWeb.eot');
+  src: url('../../../sfu_fonts/DINWeb.eot?#iefix') format('embedded-opentype'), url('../../../sfu_fonts/DINWeb.woff') format('woff');
+}
+@font-face {
+  font-family: 'DINWebBold';
+  src: url('../../../sfu_fonts/DINWeb-Bold.eot');
+  src: url('../../../sfu_fonts/DINWeb-Bold.eot?#iefix') format('embedded-opentype'), url('../../../sfu_fonts/DINWeb-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'DINWebMedium';
+  src: url('../../../sfu_fonts/DINWeb-Bold.eot');
+  src: url('../../../sfu_fonts/DINWeb-Bold.eot?#iefix') format('embedded-opentype'), url('../../../sfu_fonts/DINWeb-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'DINWebBlack';
+  src: url('../../../sfu_fonts/DINWeb-Black.eot');
+  src: url('../../../sfu_fonts/DINWeb-Black.eot?#iefix') format('embedded-opentype'), url('../../../sfu_fonts/DINWeb-Black.woff') format('woff');
+}
